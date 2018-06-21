@@ -1,0 +1,7 @@
+Koliko sati nedeljno provedete programirajuci?
+
+	17 responses
+	Minimum - 0.5
+	Maximum - 20
+	Median - 3
+	Std. devaiation - 5.25

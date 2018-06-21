@@ -1,0 +1,62 @@
+Odnos odgovora cetvrtog i sestog pitanja :
+	
+	17 responses:
+	Correlation - 0.4069
+	Klase : 
+	1-3 jezika: 1.33h
+	4-5 jezika: 3.583h
+	7-8 jezika: 7.833h
+	9-10 jezika: 8h
+	Regresija :
+	- blago rastuca funkcija
+	y = 0.933362 * x - 0.01142546
+
+
+Broj programiskih jezika koje poznajete na bilo kom nivou?
+
+	17 responses:
+	Minimum - 1
+	Maximum - 10
+	Median - 5
+	Std. deviation - 2.6
+
+
+Koliko programa bi ste rekli da ste napisali ukupno? Slobodna, neprecizna procena
+
+	9 responses:
+	Minimum - 5
+	Maximum - 300
+	Median - 100
+	Std. deviation - 98.5
+
+
+
+"X","C#","JSON","JavaScript","MongoDB","HTML","CSS","Graficko programiranje / OpenGL","C","C++","C#","C#","HTML","CSS","Graficko programiranje / OpenGL","C#","HTML","C#","JavaScript","HTML","CSS","C","HTML","CSS","R","C","C#","JSON","JavaScript","MongoDB","Graficko programiranje / OpenGL","C#","JavaScript","HTML","CSS","C#","XML","HTML","C#","JSON","JavaScript","MongoDB","HTML","CSS","C","C#","JavaScript","C#","JavaScript","CSS","HTML","R","HTML","CSS"
+
+
+Koliko sati nedeljno provedete programirajuci?
+
+	17 responses
+	Minimum - 0.5
+	Maximum - 20
+	Median - 3
+	Std. devaiation - 5.25
+
+"P7","P8"
+"","Stojica"
+"Algoritmi su zabavni :)","da bude tezi upis na ovaj smer, da udju samo oni koji zapravo hoce da rade programiranje, a ne oni koji nisu uspeli da upisu neki drugi smer, i onda da se radi naprednije programiranje i brze da se prelazi preko gradiva."
+"Uz malo truda bolje bi se snasli u programiranju.","Svaki informaticki predmet da bude u ucionici 24 :)"
+"Iskreno ništa","Iskreno sve"
+"nemam","vise prakse tj. rad na racunarima"
+"","Ucionica 24"
+"nis",""
+"Fokusiranje na Frontend/Backend/Desktop (.NET, Java)","Da, manje ne strucnih predmeta, praksa, deljenje u timove od 4-6 ljudi, ucenje na nivou grupa a ne celog odeljenja jer usporava proces"
+"",""
+"",""
+"pise se biste :)","Profesore"
+"",""
+"arduino","Racunarska ucionica, vise profesora sa fakulteta, "
+"Swift","Treba dodati vise obaveznih prakticnih zadataka/projekata i rad sa nekim frameworkom za mobilne aplikacije"
+"","V****** *****"
+"Low end programiranje","Vise rada na racunarima i rada na projektima"
+"nista","da mi kazu da moram da polazem matematiku na maturi pre nego sto upisem smer"

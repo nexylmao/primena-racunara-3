@@ -1,0 +1,7 @@
+Koliko programa bi ste rekli da ste napisali ukupno? Slobodna, neprecizna procena
+
+	9 responses:
+	Minimum - 5
+	Maximum - 300
+	Median - 100
+	Std. deviation - 98.5

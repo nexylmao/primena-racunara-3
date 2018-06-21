@@ -1,0 +1,14 @@
+Odnos odgovora cetvrtog i sestog pitanja :
+	
+	17 responses:
+	Correlation - 0.4069
+	Klase : 
+	1-3 jezika: 1.33h
+	4-5 jezika: 3.583h
+	7-8 jezika: 7.833h
+	9-10 jezika: 8h
+	Regresija :
+	- blago rastuja funkcija
+	y = 0.933362 * x - 0.01142546
+	
+	

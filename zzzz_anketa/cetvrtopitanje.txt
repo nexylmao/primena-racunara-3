@@ -1,0 +1,7 @@
+Broj programiskih jezika koje poznajete na bilo kom nivou?
+
+	17 responses:
+	Minimum - 1
+	Maximum - 10
+	Median - 5
+	Std. deviation - 2.6
